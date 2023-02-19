@@ -67,7 +67,11 @@
      }  
 .carousel img{
      -webkit-box-reflect: below 20px -webkit-gradient(linear, right top,
-      right bottom, from(transparent), to(rgba(255,255,255,0.3)));
+      right bottom, from(transparent), to(rgba(255,255,255,0.2)));
+}
+.carousel h1{
+     font-size: 20px;
+     
 }
 }
 
